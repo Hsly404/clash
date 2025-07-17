@@ -4,7 +4,6 @@ DOMAIN-SUFFIX,op.gg
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
 #影巢
-IP-CIDR,40.78.238.0/18
 DOMAIN-KEYWORD,hdhive
 DOMAIN,hdhive.online
 DOMAIN-SUFFIX,hdhive.online
