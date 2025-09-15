@@ -12,3 +12,9 @@ DOMAIN-SUFFIX,hdhive.com
 #ipleak
 DOMAIN,ipleak.net
 DOMAIN-SUFFIX,ipleak.net
+#dnscheck
+DOMAIN,dnscheck.tools
+DOMAIN-SUFFIX,dnscheck.tools
+#browserleaks
+DOMAIN,browserleaks.com
+DOMAIN-SUFFIX,browserleaks.com
