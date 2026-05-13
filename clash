@@ -1,0 +1,5 @@
+[custom]
+;是否启用规则生成器
+enable_rule_generator=true
+;是否覆盖原订阅自带的规则
+overwrite_original_rules=true
