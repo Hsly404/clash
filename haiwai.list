@@ -18,3 +18,6 @@ DOMAIN-SUFFIX,dnscheck.tools
 #browserleaks
 DOMAIN,browserleaks.com
 DOMAIN-SUFFIX,browserleaks.com
+#duckduckgo
+DOMAIN,duckduckgo.com
+DOMAIN-SUFFIX,duckduckgo.com
