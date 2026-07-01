@@ -21,3 +21,5 @@ DOMAIN-SUFFIX,browserleaks.com
 #duckduckgo
 DOMAIN,duckduckgo.com
 DOMAIN-SUFFIX,duckduckgo.com
+#PT站
+DOMAIN-SUFFIX,u2.dmhy.org
