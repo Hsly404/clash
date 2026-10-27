@@ -1,0 +1,6 @@
+# 自定义规则集
+# 域名规则：仅包含 DOMAIN、DOMAIN-SUFFIX、DOMAIN-KEYWORD
+# 可直接作为 Mihomo rule-provider 的 format: yaml 文件使用
+payload:
+  - DOMAIN-SUFFIX,fsm.name
+  - DOMAIN,u2.dmhy.org

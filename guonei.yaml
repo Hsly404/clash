@@ -1,0 +1,14 @@
+# 自定义规则集
+# 域名规则：仅包含 DOMAIN、DOMAIN-SUFFIX、DOMAIN-KEYWORD
+# 可直接作为 Mihomo rule-provider 的 format: yaml 文件使用
+payload:
+  - DOMAIN-SUFFIX,hsly.vip
+  - DOMAIN,tcd5g.2ch0p.com
+  - DOMAIN,warehouse.parkson-market.org
+  - DOMAIN,link.nobodys.uk
+  - DOMAIN,huaikhwang.central-world.org
+  - DOMAIN,ratchada.terminal69.win
+  - DOMAIN-SUFFIX,copy20.com
+  - DOMAIN,www.copy20.com
+  - DOMAIN-SUFFIX,pipio.io
+  - DOMAIN,pipio.io

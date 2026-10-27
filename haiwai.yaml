@@ -1,0 +1,21 @@
+# 自定义规则集
+# 域名规则：仅包含 DOMAIN、DOMAIN-SUFFIX、DOMAIN-KEYWORD
+# 可直接作为 Mihomo rule-provider 的 format: yaml 文件使用
+payload:
+  - DOMAIN-SUFFIX,op.gg
+  - DOMAIN-SUFFIX,themoviedb.org
+  - DOMAIN-SUFFIX,tmdb.org
+  - DOMAIN-KEYWORD,hdhive
+  - DOMAIN,hdhive.online
+  - DOMAIN-SUFFIX,hdhive.online
+  - DOMAIN,hdhive.com
+  - DOMAIN-SUFFIX,hdhive.com
+  - DOMAIN,ipleak.net
+  - DOMAIN-SUFFIX,ipleak.net
+  - DOMAIN,dnscheck.tools
+  - DOMAIN-SUFFIX,dnscheck.tools
+  - DOMAIN,browserleaks.com
+  - DOMAIN-SUFFIX,browserleaks.com
+  - DOMAIN,duckduckgo.com
+  - DOMAIN-SUFFIX,duckduckgo.com
+  - DOMAIN-SUFFIX,u2.dmhy.org
